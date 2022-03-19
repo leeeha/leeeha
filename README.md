@@ -2,7 +2,7 @@
 
 - Majoring **Computer Engineering** in SeoulTech. (2020.02 ~)
 - Seoultech Computer Engineering Academic Club **Tools** member (2020.03 ~)
-- [GDSC (Google Developer Student Clubs) Seoultech](https://gdsc-seoultech.github.io/) Android member (2021.08 ~)
+- [**GDSC (Google Developer Student Clubs) Seoultech**](https://gdsc-seoultech.github.io/) Android member (2021.08 ~)
 - I am currently experiencing various fields of development and want to develop technologies that can help our society.
 - I want to be a developer who continues to grow with others!
 - How to reach me: jxlhe46@gmail.com
