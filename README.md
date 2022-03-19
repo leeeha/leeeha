@@ -7,6 +7,7 @@
 - [GDSC (Google Developer Student Clubs) Seoultech](https://gdsc-seoultech.github.io/) Android member (2021.08 ~)
 - I am currently experiencing various fields of development and want to develop technologies that can help our society.
 - I want to be a developer who continues to grow with others!
+- How to reach me: jxlhe46@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeha&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
