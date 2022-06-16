@@ -1,9 +1,9 @@
 ## :seedling: About me
 
-- Majoring **Computer Engineering** in SeoulTech. (2020.02 ~)
-- Seoultech Computer Engineering Academic Club [**TooLs**](https://tools.tistory.com/) member (2020.03 ~)
-- [**GDSC (Google Developer Student Clubs) Seoultech**](https://gdsc-seoultech.github.io/) Android member (2021.08 ~)
-- I'm currently experiencing various development areas, and particularly interested in solving social problems with technology.
+- Majoring **Computer Engineering** in SeoulTech. (2020.02 ~) 
+- Seoultech Computer Engineering Academic Club **TooLs** member (2020.03 ~) 
+- [**GDSC (Google Developer Student Clubs) Seoultech**](https://gdsc-seoultech.github.io/) Android member (2021.08 ~) 
+- I'm currently experiencing various development areas, and particularly interested in solving social problems with technology. 
 - I want to be a developer who constantly strives to grow with my colleagues!
 - How to reach me: jxlhe46@gmail.com
 
@@ -18,7 +18,6 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jxlhe46)](https://solved.ac/jxlhe46)
 [![solved.ac](http://mazandi.herokuapp.com/api?handle=jxlhe46)](https://solved.ac/jxlhe46)
-
 
 ## :computer: Skills
 
