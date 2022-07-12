@@ -7,9 +7,11 @@
 - I'm currently experiencing various development areas, and particularly interested in **solving social problems with technology!** 🤝 
 - How to reach me: jxlhe46@gmail.com 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeha&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeha&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
+
+![](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md) 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeeha&count_bg=%23B3D938&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
