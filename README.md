@@ -3,9 +3,10 @@
 - Majoring **Computer Engineering** in SeoulTech. (2020.02 ~) 
 - Seoultech Computer Engineering Academic Club **TooLs 24th** member (2020.03 ~) 
 - [**GDSC (Google Developer Student Clubs) Seoultech 1st**](https://gdsc-seoultech.github.io/) Android member (2021.08 ~ 2022.05) 
-- **I love the development culture that supports each other's growth! 💙** 
-- I'm currently experiencing various development areas, and particularly interested in **solving social problems with technology!** 🤝 
-- How to reach me: jxlhe46@gmail.com 
+- 💙 **I love the development culture that supports each other's growth!** 
+- 🌷 I'm currently experiencing various development areas, and particularly interested in **solving social problems with technology!**  
+- 📞 How to reach me: jxlhe46@gmail.com 
+- 🐣 My tech blog: https://velog.io/@jxlhe46
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeha&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
