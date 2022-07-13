@@ -4,7 +4,7 @@
 - Seoultech Computer Engineering Academic Club **TooLs 24th** member (2020.03 ~) 
 - [**GDSC (Google Developer Student Clubs) Seoultech 1st**](https://gdsc-seoultech.github.io/) Android member (2021.08 ~ 2022.05) 
 - 💙 I love the development culture that **supports each other's growth!**
-- 🌷 I'm interested in **solving problems** that we can find around us **with technology!**
+- 🤝 I'm interested in **solving problems** that we can find around us **with technology!**
 - 📞 How to reach me: jxlhe46@gmail.com 
 - 🐣 My tech blog: https://velog.io/@jxlhe46
 
@@ -64,4 +64,4 @@ To be continued...
 - 2020 Seoultech DDR (Drone, 3D printer, Robot) Camp 총장상
 - 2022 GDSC KR Winter Hackathon 최우수상
 
-Last Update: 2022.03.20 -->
+-->
