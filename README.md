@@ -1,7 +1,7 @@
 ## :seedling: About me
 
 - Majoring **Computer Engineering** in SeoulTech. (2020.02 ~) 
-- [**GO SOPT 32th**](https://sopt.org/) Android Member (2023.03 ~ )
+- [**GO SOPT 32th**](https://sopt.org/) YB Android Member (2023.03 ~ )
 - [**GDSC Seoultech 2nd**](https://gdsc-seoultech.github.io/) Android Core Member (2022.09 ~ 2023.05) 
 - **GDSC Seoultech 1st** Android member (2021.09 ~ 2022.05) 
 - Seoultech Computer Engineering Academic Club **TooLs 24th** member (2020.03 ~ )
