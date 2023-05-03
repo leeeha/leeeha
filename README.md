@@ -12,13 +12,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeha&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jxlhe46)](https://solved.ac/jxlhe46)
+[![solved.ac tier](http://mazassumnida.wtf/api/pastel/generate_badge?boj=jxlhe46)](https://solved.ac/jxlhe46)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeeha&count_bg=%23B3D938&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- 
-
-[![solved.ac](http://mazandi.herokuapp.com/api?handle=jxlhe46)](https://solved.ac/jxlhe46)
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
