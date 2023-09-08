@@ -1,4 +1,4 @@
-## :seedling: About me <img width="50" src="https://github.com/leeeha/leeeha/assets/68090939/4aa09eb2-d0ee-480e-b508-794502c88b33"/> 
+## :seedling: About me
 
 - Majoring **Computer Engineering** in SeoulTech. (2020.02 ~) 
 - [**GO SOPT 32th**](https://sopt.org/) YB Android Member (2023.03 ~ 2023.07)
