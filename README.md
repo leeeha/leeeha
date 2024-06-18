@@ -1,40 +1,28 @@
-## :seedling: About me
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:94B1FF,100:FADADD&height=200&section=header&text=Haeun%20Lee&fontSize=80&animation=twinkling)
 
-- Majoring **Computer Engineering** in SeoulTech. (2020.02 ~) 
-- [**GO SOPT 32th**](https://sopt.org/) YB Android Member (2023.03 ~ 2023.07)
-- [**GDSC Seoultech 2nd**](https://gdsc-seoultech.github.io/) Android Core Member (2022.09 ~ 2023.05)
-- **GDSC Seoultech 1st** Android Member (2021.09 ~ 2022.05)
-- Seoultech Computer Engineering Academic Club **TooLs 24th** member (2020.03 ~ )
-- 💙 I love the development culture that **supports each other's growth!**
-- 🤝 I'm interested in **solving problems** that we can find around us **with technology!**
-- 📞 How to reach me: jxlhe46@gmail.com 
-- 🐣 My tech blog: https://velog.io/@jxlhe46
+## Projects 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeha&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+- [Winey](https://github.com/team-winey/Winey-AOS) | 긍정적인 소비습관을 만드는 쉽고 재밌는 절약 SNS 앱 서비스 <sub>2023.06 ~</sub>
+- [Runnect](https://github.com/Runnect/Runnect-Android) | 코스를 그리고 공유하는 데일리 러닝 앱 서비스 <sub>2023.09 ~</sub>
+- [GoldenHour](https://github.com/gdsc-seoultech/GoldenHour_Android) | 응급 상황 및 재난 발생 시 빠른 대처를 도와주는 AI 앱 서비스 <sub>2023.01.05 ~ 2023.03.30</sub>
+- [MediMedi](https://github.com/leeeha/MediMedi_Android) | 시각 장애인의 약 구분을 도와주는 음성 AI 앱 서비스 <sub>2021.12.28 ~ 2022.03.31</sub>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/pastel/generate_badge?boj=jxlhe46)](https://solved.ac/jxlhe46)
+## Activities 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeeha&count_bg=%23B3D938&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+- [SOPT](https://sopt.org/) 32기 안드로이드 파트 멤버 <sub>2023.03 ~ 2023.07</sub>
+- [GDSC Seoultech](https://gdsc-seoultech.github.io/) 2기 안드로이드 코어 멤버 <sub>2022.09 ~ 2023.05</sub>
+- 컴퓨터공학과 학술동아리 Tools 26기 부회장 <sub>2022.03 ~ 2022.12</sub>
+- GDSC Seoultech 1기 안드로이드 멤버 <sub>2021.09 ~ 2022.05</sub>
 
-<!-- 
+## Channel 
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- Blog: https://velog.io/@jxlhe46/posts
+- Notion: [안드로이드 공부 기록](https://www.notion.so/TIL-852bd343fc154aaba07d040fc51d6166?pvs=4)
 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+## Education
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+서울과학기술대학교 컴퓨터공학과 <sub>2020.02 ~</sub>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeeha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-- 2020 Seoultech DDR (Drone, 3D printer, Robot) Camp 총장상
-- 2022 GDSC KR Winter Hackathon 최우수상
-
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeha&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![solved.ac tier](http://mazassumnida.wtf/api/pastel/generate_badge?boj=jxlhe46)](https://solved.ac/jxlhe46)
