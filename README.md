@@ -11,7 +11,7 @@
 
 - [SOPT](https://sopt.org/) 32기 안드로이드 파트 멤버 <sub>2023.03 ~ 2023.07</sub>
 - [GDSC Seoultech](https://gdsc-seoultech.github.io/) 2기 안드로이드 코어 멤버 <sub>2022.09 ~ 2023.05</sub>
-- 컴퓨터공학과 학술동아리 Tools 26기 부회장 <sub>2022.03 ~ 2022.12</sub>
+- 서울과기대 컴퓨터공학과 학술동아리 Tools 26기 부회장 <sub>2022.03 ~ 2022.12</sub>
 - GDSC Seoultech 1기 안드로이드 멤버 <sub>2021.09 ~ 2022.05</sub>
 
 ## Channel 
@@ -25,4 +25,6 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeha&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![solved.ac tier](http://mazassumnida.wtf/api/pastel/generate_badge?boj=jxlhe46)](https://solved.ac/jxlhe46)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeha&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![solved.ac tier](http://mazassumnida.wtf/api/pastel/generate_badge?boj=jxlhe46)](https://solved.ac/jxlhe46)
