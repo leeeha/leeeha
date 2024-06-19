@@ -2,10 +2,10 @@
 
 ## Projects 
 
-- [Winey](https://github.com/team-winey/Winey-AOS) | 긍정적인 소비습관을 만드는 쉽고 재밌는 절약 SNS 앱 서비스 <sub>2023.06 ~</sub>
-- [Runnect](https://github.com/Runnect/Runnect-Android) | 코스를 그리고 공유하는 데일리 러닝 앱 서비스 <sub>2023.09 ~</sub>
-- [GoldenHour](https://github.com/gdsc-seoultech/GoldenHour_Android) | 응급 상황 및 재난 발생 시 빠른 대처를 도와주는 AI 앱 서비스 <sub>2023.01.05 ~ 2023.03.30</sub>
-- [MediMedi](https://github.com/leeeha/MediMedi_Android) | 시각 장애인의 약 구분을 도와주는 음성 AI 앱 서비스 <sub>2021.12.28 ~ 2022.03.31</sub>
+- [Winey](https://github.com/team-winey/Winey-AOS) | 긍정적인 소비습관을 만드는 쉽고 재밌는 절약 SNS 앱 <sub>2023.06 ~</sub>
+- [Runnect](https://github.com/Runnect/Runnect-Android) | 코스를 그리고 공유하는 데일리 러닝 앱 <sub>2023.09 ~</sub>
+- [GoldenHour](https://github.com/gdsc-seoultech/GoldenHour_Android) | 응급 상황 및 재난 발생 시 빠른 대처를 도와주는 AI 앱 <sub>2023.01.05 ~ 2023.03.30</sub>
+- [MediMedi](https://github.com/leeeha/MediMedi_Android) | 시각 장애인의 약 구분을 도와주는 음성 AI 앱 <sub>2021.12.28 ~ 2022.03.31</sub>
 
 ## Activities 
 
