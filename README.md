@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:19E64A,100:81D8D0&height=200&section=header&text=Haeun%20Lee&fontSize=75&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:94B1FF,100:FADADD&height=200&section=header&text=Haeun%20Lee&fontSize=80&animation=twinkling)
 
 ## Projects 
 
@@ -25,6 +25,6 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeha&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeha&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![solved.ac tier](http://mazassumnida.wtf/api/pastel/generate_badge?boj=jxlhe46)](https://solved.ac/jxlhe46)
