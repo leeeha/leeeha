@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:32E95E,100:4CECC2&height=200&section=header&text=Haeun%20Lee&fontSize=80&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:19E64A,100:81D8D0&height=200&section=header&text=Haeun%20Lee&fontSize=75&animation=twinkling)
 
 ## Projects 
 
