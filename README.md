@@ -14,11 +14,6 @@
 - 서울과기대 컴퓨터공학과 학술동아리 Tools 26기 부회장 <sub>2022.03 ~ 2022.12</sub>
 - GDSC Seoultech 1기 안드로이드 멤버 <sub>2021.09 ~ 2022.05</sub>
 
-## Channel 
-
-- Blog: https://velog.io/@jxlhe46/posts
-- Notion: [안드로이드 공부 기록](https://www.notion.so/TIL-852bd343fc154aaba07d040fc51d6166?pvs=4)
-
 ## Education
 
 서울과학기술대학교 컴퓨터공학과 <sub>2020.02 ~</sub>
