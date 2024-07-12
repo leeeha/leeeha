@@ -1,5 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:94B1FF,100:FADADD&height=200&section=header&text=Haeun%20Lee&fontSize=80&animation=twinkling)
 
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">&nbsp 
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">&nbsp 
+</p>
+
 ## Projects 
 
 - [Winey](https://github.com/team-winey/Winey-AOS) | 긍정적인 소비습관을 만드는 쉽고 재밌는 절약 SNS 앱 <sub>2023.06 ~</sub>
