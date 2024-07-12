@@ -1,18 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:94B1FF,100:FADADD&height=200&section=header&text=Haeun%20Lee&fontSize=80&animation=twinkling)
 
-## Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">&nbsp 
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">&nbsp 
-</p>
-
 ## Projects 
 
 - [Winey](https://github.com/team-winey/Winey-AOS) | 긍정적인 소비습관을 만드는 쉽고 재밌는 절약 SNS 앱 <sub>2023.06 ~</sub>
-- [Runnect](https://github.com/Runnect/Runnect-Android) | 지도 상에 코스를 그리고 공유하는 데일리 러닝 앱 <sub>2023.09 ~</sub>
+- [Runnect](https://github.com/Runnect/Runnect-Android) | 지도 상에 코스를 그리고 공유하는 데일리 러닝 앱 <sub>2023.09 ~ 2024.06</sub>
 - [GoldenHour](https://github.com/gdsc-seoultech/GoldenHour_Android) | 응급 상황 및 재난 발생 시 빠른 대처를 도와주는 AI 보조 앱 <sub>2023.01.05 ~ 2023.03.30</sub>
 - [MediMedi](https://github.com/leeeha/MediMedi_Android) | 시각 장애인의 약 구분을 도와주는 음성 AI 보조 앱 <sub>2021.12.28 ~ 2022.03.31</sub>
 
@@ -22,6 +13,15 @@
 - [GDSC Seoultech](https://gdsc-seoultech.github.io/) 2기 안드로이드 코어 멤버 <sub>2022.09 ~ 2023.05</sub>
 - 서울과기대 컴퓨터공학과 학술동아리 Tools 26기 부회장 <sub>2022.03 ~ 2022.12</sub>
 - GDSC Seoultech 1기 안드로이드 멤버 <sub>2021.09 ~ 2022.05</sub>
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">&nbsp 
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">&nbsp 
+</p>
 
 ## Education
 
