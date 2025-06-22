@@ -1,10 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:94B1FF,100:FADADD&height=200&section=header&text=Haeun%20Lee&fontSize=80&animation=twinkling)
 
+## Work Experiences 
+
+- CashWalk Android Developer <sub>2025.02 ~</sub>
+
 ## Projects 
 
-- [LoveMarker](https://github.com/LoveMarker/LoveMarker-Android) | 장소 기반 연인 간의 추억 아카이빙 앱 서비스 <sub>2024.03 ~</sub> 
-- [Winey](https://github.com/team-winey/Winey-AOS) | 긍정적인 소비습관을 만드는 쉽고 재밌는 절약 SNS 앱 서비스 <sub>2023.06 ~</sub>
-- [Runnect](https://github.com/Runnect/Runnect-Android) | 지도 상에 코스를 그리고 공유하는 데일리 러닝 앱 서비스 <sub>2023.09 ~</sub>
+- [LoveMarker](https://github.com/LoveMarker/LoveMarker-Android) | 장소 기반 연인 간의 추억 아카이빙 앱 서비스 <sub>2024.03 ~ 2024.12</sub>
+- [Winey](https://github.com/team-winey/Winey-AOS) | 긍정적인 소비습관을 만드는 쉽고 재밌는 절약 SNS 앱 서비스 <sub>2023.06 ~ 2025.03</sub>
+- [Runnect](https://github.com/Runnect/Runnect-Android) | 지도 상에 코스를 그리고 공유하는 데일리 러닝 앱 서비스 <sub>2023.09 ~ 2024.07</sub>
 - [GoldenHour](https://github.com/gdsc-seoultech/GoldenHour_Android) | 응급 상황 및 재난 발생 시 빠른 대처를 도와주는 AI 보조 앱 서비스 <sub>2023.01.05 ~ 2023.03.30</sub>
 - [MediMedi](https://github.com/leeeha/MediMedi_Android) | 시각 장애인의 약 구분을 도와주는 음성 AI 보조 앱 서비스 <sub>2021.12.28 ~ 2022.03.31</sub>
 
