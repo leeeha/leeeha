@@ -1,8 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:94B1FF,100:FADADD&height=200&section=header&text=Haeun%20Lee&fontSize=80&animation=twinkling)
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">&nbsp 
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">&nbsp 
+  <img src="https://img.shields.io/badge/Git-f05030?style=flat-square&logo=Git&logoColor=white"/></a> &nbsp
+</p>
 
 ## Work Experiences 
 
-- CashWalk Android Developer <sub>2025.02 ~</sub>
+- [CashWalk](https://cashwalk.com/) | Android Developer <sub>2025.02 ~</sub>
 
 ## Projects 
 
@@ -18,15 +25,6 @@
 - [GDSC Seoultech](https://gdsc-seoultech.github.io/) 2기 안드로이드 코어 멤버 <sub>2022.09 ~ 2023.05</sub>
 - 서울과기대 컴퓨터공학과 학술동아리 Tools 26기 부회장 <sub>2022.03 ~ 2022.12</sub>
 - GDSC Seoultech 1기 안드로이드 멤버 <sub>2021.09 ~ 2022.05</sub>
-
-## Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">&nbsp 
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">&nbsp 
-</p>
 
 ## Education
 
